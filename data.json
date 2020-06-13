@@ -1,0 +1,89 @@
+{
+  "details":{
+    "header":{
+      "name":"Dilip Shukla",
+      "city":"Thane",
+      "country":"India",
+      "mobile":"+91 9664660951",
+      "email":"dilipshukla567@gmail.com",
+      "website":"https://www.trekkerfreak.com",
+      "langues_know":"Hindi,English",
+      "photo":"dilip_trekking_image.jpg",
+      "print":[
+        "<button onclick='window.print()'>Print this page</button>"      
+      ]
+    },
+    "body":{
+      "Professional Experience":[
+        {
+          "title":"purplle.com - Mumbai,India",
+          "subtitle":"[ SDE-1 Backend Developer ]",
+          "description":"<b>May, 2019 - Present</b> — Leading the backend of an internal messaging API. Focussed on optimization and queue management."
+        },
+        {
+          "title":"Ergode It Services Pvt ltd. - Mumbai,India",
+          "subtitle":"[ Senior Software Engineer ]",
+          "description":"<b>June, 2016 - May, 2019</b> — Overlooked API design, approved new design specs and overlooked the backend team. Lead the development of an internal R&D devtool-project."
+        },
+        {
+          "title":"Till now I have developed applications are:-",
+          "subtitle":"",
+          "description":"Order processing system,multiple marketplace listing for multiple country,Mail Management System,tracking management system,ysracademy.com,vgrcommerceacademy.com,trekkerfreak.com,shypoglobe.com"
+        }
+      ],
+      "Academic Details":[
+        {
+          "title":"Post Graduate [2016]",
+          "subtitle":"MCA - Master Of Computer Application",
+          "description":"From Mumbai University-College-BVIMIT(Navi Mumbai) --[FIRST CLASS]"
+        },
+        {
+          "title":"Graduate [2013]",
+          "subtitle":"B.Sc(IT)",
+          "description":"From Mumbai University-College-R.A.D.A.V(Mumbai) --[FIRST CLASS]"
+        }
+      ],
+      "Skills and Competence":[
+        {
+          "title":"Order Processing and Product Listing on Multiplemarketplaces",
+          "subtitle":"Listing On Amazon,walmart,ebay,etc.",
+          "description":"For Developing this application i have used the technology..Core Php,jquery,Html,css,javascript,mysql,mognodb,multiple rest api integration,soap api integration,etc."
+        },
+        {
+          "title":"Web Technology and Frameworks",
+          "subtitle":"",
+          "description":"I have worked on -codeignitor framework,laravel,wordpress"
+        },
+        {
+          "title":"Cloud Based Services",
+          "subtitle":"",
+          "description":"Google Cloud Provider(GCP)-pub/sub service,cloud function,data-flow,bigquery,data-storage,aws bucket api,aws ec2,etc."
+        },
+        {
+          "title":"Skills",
+          "subtitle":"Work on programming languages:",
+          "description":"C++,Php,mysql,sql,mongodb,bigquery,codeignitor framework,laravel,lumen light laravel framework,jquery,javascript,bootstrap,css,html,html5,node js,express js,d3.js,mithril.js"
+        }
+      ],
+      "Extracurricular Engagements":[
+        {
+          "title":"Winner Of Tresurehunt Competition",
+          "subtitle":"",
+          "description":"On Swami Vivekanand College-Chembur(Mumbai)"
+        }
+      ],
+      "Interests and Hobbies":[
+        {
+          "title":"Learning New Technology",
+          "subtitle":"",
+          "description":"Every Day learn new technology and teach others alos that is why i have made youtube channel"
+        },
+        {
+          "title":"Love to travel and Trekking",
+          "subtitle":"",
+          "description":"On my free time i love to travel on new placess and trekking on different forts,mountains,etc."
+        }
+      ]
+    }
+  }
+}
